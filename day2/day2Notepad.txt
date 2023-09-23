@@ -1,0 +1,35 @@
+             
+
+API(APPLICATION PROGRAMMING INTERFACE )
+
+/cars/ - get
+/createcar - post
+/singlecar/1 - get 
+/updatecar/1- patch
+/deletecar/1 - delete
+
+RESTFUL API 
+/cars   - get,post
+/car/1 - patch,delete,get
+
+name = Manish
+profession  = student
+address  = itahari
+
+PATCH
+name = Mahesh
+after changes .... 
+name = Mahesh
+profession = student
+address = itahari
+
+PUT
+name = hello
+after changes ... 
+name = hello
+profession = ""
+address = ""
+Installation Resources:
+https://nodejs.org/en/download
+https://code.visualstudio.com/download
+https://www.postman.com/downloads/
