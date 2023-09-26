@@ -1,0 +1,16 @@
+Agenda 
+1.What is JSON ? (data tranmission,data store)
+2.Problem : How to restart Node server automatically ? 
+3.PostMan : Installation,api testing(GET api)
+
+<manish>I am from home page </manish>
+Object : 
+{
+manish : "I am from home page"
+}
+
+API : http://localhost:2000/about
+
+nvm
+npm install packageName => npm i packageName
+i=>install

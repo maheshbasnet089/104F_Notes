@@ -1,0 +1,53 @@
+Agenda : 
+NPM(Node Package Manager)
+Express 
+Get API
+port Number
+
+Functions in JS 
+2 types : 
+Regular Function : 
+function (){
+
+}
+function(req,res){
+
+}
+
+
+Arrow Function : 
+()=>{
+
+}
+
+(req,res)=>{
+    res.send("Hello i m from home page")
+}
+
+
+
+localhost:2000
+127.0.0.1:2000
+[::1]:2000
+
+api
+http://localhost:2000/about
+http://localhost:2000/contact
+http://localhost:2000/
+
+
+http://locahost:3000/user?delete=1(userId) - CSRF
+bruteForce - 
+
+let a = 10;
+a  = "Manish";
+
+int a = 10;
+a = "Manish"
+String name = "Manish";
+name = 10;
+
+
+
+
+
