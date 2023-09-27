@@ -1,0 +1,9 @@
+TODO :
+CMS outlet/project ko brief description 
+new project 
+mongodb,mongoose,database connection 
+
+sql (mysql,sqlite,postgres)
+
+nosql (mongodb,cassandra)
+
