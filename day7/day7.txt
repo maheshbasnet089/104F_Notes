@@ -1,0 +1,12 @@
+CRUD(create,read,update,delete)
+C -> Create blog ( title,subTitle,Description) - POST method
+
+ 
+Nosql - sql
+collection - table
+Model - us 
+Schema - 
+FieldName - ColumnName
+
+POST
+Body->raw->JSON
