@@ -1,0 +1,10 @@
+NODEJs basic , CRUD api 
+React -> CRUD API implement garera euta cms 
+Day 10 : React 
+Problem 1 : Everytime injection of code from first
+
+HTML 
+  body 
+	h1(helloworld)
+	h2
+	h3
