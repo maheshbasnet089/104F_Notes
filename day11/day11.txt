@@ -1,0 +1,33 @@
+Day 11 : 
+Todo : 
+React installation (CRA(Create React app),CDN(content delivery network),Vite)
+Types of CSS : 
+inline - done
+internal - 
+external 
+
+
+Nodejs 
+require('express') = CJS (common Js)
+import 'express) = ES(ecma script)
+
+module.exports = functionName
+exports.functionName
+
+
+export default functionName
+
+const sayHello = ()=>{
+	console.log("Hello i m manish");
+}
+function sayHello(){
+	console.log("Hello I m manish");
+} = function 
+
+function sayHello(){
+	return(
+	<h1>Hello i m manish </h1>
+	)
+
+} = component
+
