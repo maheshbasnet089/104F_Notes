@@ -1,0 +1,5 @@
+Problem 1 : How to handle routes/path
+Solution 1 : react-router-dom
+
+Problem 2 : html ko dherai code vayo vani halna uftero hunxa.
+Solution 2 : Component bata 

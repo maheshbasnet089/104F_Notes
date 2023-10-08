@@ -1,0 +1,16 @@
+Problem 1 : How to decrease the repetition of code ? 
+Solution : Components 
+Props 
+{
+ title : "Register"
+}
+const passedValue = {
+hello : "Login",
+subTitle : "Hello"
+}
+const {hello} = passedValue
+const title = passedValue.hello
+
+
+const subTitle = passedValue.subTitle
+usestate 
