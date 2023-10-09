@@ -1,0 +1,16 @@
+useEffect Hook
+3 Types : 
+
+useEffect(()=>{
+code here 
+},[])  => first Time load/mount huda page
+
+useEffect(()=>{
+code 
+},[variableHere])
+
+
+useEffect(()=>{
+
+})
+
