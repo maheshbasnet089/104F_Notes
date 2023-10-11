@@ -6,4 +6,3 @@ TODO
 
 API -> http://localhost:2000/blogs  - GET
 fetch(API)
-axios
