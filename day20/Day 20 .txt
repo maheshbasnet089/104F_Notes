@@ -1,0 +1,11 @@
+Day 20 
+
+TODO : 
+Project ? online food delivery system(E-FOOD)
+API development
+Node setup,mongodb connection
+Registration,login api 
+User->email,password,phoneNumber,role
+
+
+npm install nodemon -g

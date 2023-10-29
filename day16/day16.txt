@@ -1,0 +1,23 @@
+loops in js 
+Map,foreach
+
+CRUD(create,read,update,delete)
+READ - ALL Blogs - DONE
+Single Read - single Blog
+CREATE - 
+
+
+response.data =  {
+    "message": "Blogs fetched successfully",
+    "blogs": [
+        {
+            "_id": "651aef4b358b03936e102ad5",
+            "title": "Finishing crud",
+            "subTitle": "Crud finished",
+            "description": "Hello finished crud this is blah blah",
+            "createdAt": "2023-10-02T16:26:51.569Z",
+            "updatedAt": "2023-10-02T16:26:51.569Z",
+            "__v": 0
+        }
+    ]
+}
