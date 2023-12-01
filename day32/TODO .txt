@@ -1,0 +1,16 @@
+TODO 
+Traditional client/server architecture communication 
+Http polling (short polling,long polling)
+WebSocket(socket.io)
+full duplex real time communication 
+application : 
+Chat,live chat 
+Collabrative editing
+Online gaming
+finance stock board 
+
+
+SYN,ACK
+
+http==> ws 
+https ==> wss
