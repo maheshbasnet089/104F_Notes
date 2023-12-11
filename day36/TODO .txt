@@ -1,0 +1,18 @@
+TODO 
+REDUX toolkit
+
+Redux Middleware , thunks
+api caching 
+
+{
+ action : "product/add"
+
+
+Redux ==> lamo store configuration, dherae code , strict nature , action,reducer
+react-redux ==> useSelector(), useDispatch()
+
+redux-toolkit --> createSlice({
+
+})
+
+reducers ---> synchrounous,pure functions
